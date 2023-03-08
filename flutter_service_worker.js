@@ -8,7 +8,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
-"main.dart.js": "58aa98bcdcc928cbf47c062e74637d80",
+"main.dart.js": "8418f33b37d39c87d4777d03eef12581",
 "version.json": "2a4bdd3370ee966319e180d97d91e050",
 "assets/assets/images/chat-app-2.jpeg": "d849d8e4aeaf1ed7e0f3162969af1712",
 "assets/assets/images/chat-app-3.jpeg": "9dae62950671e97c7aa4bbf64b87fa1f",
@@ -53,14 +53,15 @@ const RESOURCES = {
 "assets/AssetManifest.json": "f80437be50caa11dcc78f20ab753afab",
 "assets/FontManifest.json": "a94d2c7d7ecf5d84c4e932e54183f73f",
 "assets/NOTICES": "3c9e57ccda9d8cbefb0fe7dfcc6a00cc",
+"assets/loading-indicator.gif": "4a842bb6a3db17b1a82bf1f14fdc1081",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "manifest.json": "dc6043ecaaae9eb5f5d08e51cc7dda60",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"index.html": "562f1e281ce7539a2f78238380362a4a",
-"/": "562f1e281ce7539a2f78238380362a4a"
+"index.html": "9040316170c19870eed9684db595b005",
+"/": "9040316170c19870eed9684db595b005"
 };
 
 // The application shell files that are downloaded before a service worker can
