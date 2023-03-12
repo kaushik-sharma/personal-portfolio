@@ -1,2 +1,2 @@
 # Personal Portfolio
-My personal portfolio made with Flutter.
+My personal portfolio webapp made with Flutter.
